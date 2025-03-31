@@ -1,3 +1,3 @@
-resource "aws_accessanalyzer_analyzer" "thecloudsquad" {
-    analyzer_name = "thecloudsquad-${var.stage}"
+resource "aws_accessanalyzer_analyzer" "jayananalytics" {
+    analyzer_name = "jayanalytics-${var.stage}"
 }
